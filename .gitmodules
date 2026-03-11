@@ -1,0 +1,3 @@
+[submodule "uav_sim"]
+	path = uav_sim
+	url = https://github.com/nicewang/uav_sim.git
