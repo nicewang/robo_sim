@@ -1,3 +1,4 @@
+_label: Step 2: Trial and Error_
 # Robo Sim
 Simulation of various robot systems.
 
