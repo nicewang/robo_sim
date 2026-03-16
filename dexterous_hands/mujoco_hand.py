@@ -1,3 +1,12 @@
+"""
+ * @file            dexterous_hands/mujoco_hand.py
+ * @description     
+ * @author          nicewang <wangxiaonannice@gmail.com>
+ * @createTime      2026-03-11
+ * @lastModified    2026-03-11
+ * Copyright Xiaonan (Nice) Wang. All rights reserved
+"""
+
 import mujoco
 import mujoco.viewer
 import time
